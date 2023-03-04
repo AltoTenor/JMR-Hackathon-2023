@@ -27,7 +27,7 @@
     + Receives a video file input and saves it in the designated directory for processing by our model.
     + Displays the processed video file from its designated directory on the website
 ### GUI Prototypes
-##### The web app provides a user-friendly interface that allows you to upload a video of a potentially dubious LBW decision. Once uploaded, the video is processed, and a bounding box is generated around the ball, which is then played back to you.
+#### The web app provides a user-friendly interface that allows you to upload a video of a potentially dubious LBW decision. Once uploaded, the video is processed, and a bounding box is generated around the ball, which is then played back to you.
 ![First image](first.png "a title")
-##### Once we have uploaded the required video, we can click on "Submit" to initiate the video processing. Once the processing is complete, the video will be displayed on the following screen.
+#### Once we have uploaded the required video, we can click on "Submit" to initiate the video processing. Once the processing is complete, the video will be displayed on the following screen.
 ![Second image](second.png "a title")
