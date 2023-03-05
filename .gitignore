@@ -1,0 +1,6 @@
+Lib/
+Scripts/
+Include/
+pyenv.cfg
+frames/
+masked/
