@@ -1,0 +1,7 @@
+torch
+numpy
+roboflow
+opencv-python
+matplotlib
+PIL
+tqdm
